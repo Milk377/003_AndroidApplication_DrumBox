@@ -11,6 +11,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // finish git setup.!
+        // add 90 date token for login github via Android studio.
+
 
     }
 }
